@@ -1,3 +1,3 @@
 # Java_Labs
-https://bloybik.github.io/Lab1/cv.md
-jjj
+https://bloybik.github.io/Java_Labs/Lab1/cv.md
+
