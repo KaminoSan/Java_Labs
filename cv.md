@@ -2,11 +2,11 @@ Andrienko Maxim
 ***
 Контакты: +375447516377, space4963@gmail.com, [https://vk.com/bloybik](https://vk.com/bloybik "Вконтакте")
 ***
-Информация обо мне: Её нет
+Информация обо мне: Изучаю разные языки.
 ***
 Языки: 
-1.C#
-2.JavaScript
+* C#
+* JavaScript
 ***
 Код: Какой-то код
 ***
